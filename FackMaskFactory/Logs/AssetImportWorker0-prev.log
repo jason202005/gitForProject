@@ -1,0 +1,144 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/jasonman/Documents/Final sem/COMP3329/gitForProject/FackMaskFactory
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57320
+Successfully changed project path to: /Users/jasonman/Documents/Final sem/COMP3329/gitForProject/FackMaskFactory
+/Users/jasonman/Documents/Final sem/COMP3329/gitForProject/FackMaskFactory
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/jasonman/Documents/Final sem/COMP3329/gitForProject/FackMaskFactory/Assets
+GfxDevice: creating device client; threaded=0
+2021-02-25 15:24:01.533 Unity[8229:394406] (null) preferred device: Apple M1 (high power)
+2021-02-25 15:24:01.533 Unity[8229:394406] Metal devices available: 1
+2021-02-25 15:24:01.533 Unity[8229:394406] 0: Apple M1 (high power)
+2021-02-25 15:24:01.533 Unity[8229:394406] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56229
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000360 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 31.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.492 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000315 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 31.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.692 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.7 MB.
+System memory in use after: 146.7 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2225.
+Total: 1.491584 ms (FindLiveObjects: 0.148042 ms CreateObjectMapping: 0.034042 ms MarkObjects: 1.202958 ms  DeleteObjects: 0.105625 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/AU_Characters.png
+  artifactKey: Guid(c0af97d02cf084b67bbf70b3a22b32a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AU_Characters.png using Guid(c0af97d02cf084b67bbf70b3a22b32a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e718e864c7fa4c57f5532a68e742e7') in 0.673261 seconds
+  Import took 0.677791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/AU_CharacterParts.png
+  artifactKey: Guid(9166f21398cf4490cb449795e8560118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AU_CharacterParts.png using Guid(9166f21398cf4490cb449795e8560118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958f63d6a09b69a5aa63ed811a3c57b6') in 0.016983 seconds
+  Import took 0.019341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 267.834397 seconds.
+  path: Assets/AU_Characters.png
+  artifactKey: Guid(c0af97d02cf084b67bbf70b3a22b32a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AU_Characters.png using Guid(c0af97d02cf084b67bbf70b3a22b32a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72e898b194785753485e43ea4deff660') in 0.006413 seconds
+  Import took 0.009712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004978 seconds.
+  path: Assets/AU_Characters.png
+  artifactKey: Guid(c0af97d02cf084b67bbf70b3a22b32a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AU_Characters.png using Guid(c0af97d02cf084b67bbf70b3a22b32a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72e898b194785753485e43ea4deff660') in 0.005438 seconds
+  Import took 0.008103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.230030 seconds.
+  path: Assets/AU_Characters.png
+  artifactKey: Guid(c0af97d02cf084b67bbf70b3a22b32a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AU_Characters.png using Guid(c0af97d02cf084b67bbf70b3a22b32a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c6158940b1b99d81612c388e080fe49') in 0.030757 seconds
+  Import took 0.033257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.714329 seconds.
+  path: Assets/AU_CharacterParts.png
+  artifactKey: Guid(9166f21398cf4490cb449795e8560118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AU_CharacterParts.png using Guid(9166f21398cf4490cb449795e8560118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '890ac240cd7185580e7240c8c6e8259c') in 0.005908 seconds
+  Import took 0.008830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007292 seconds.
+  path: Assets/AU_CharacterParts.png
+  artifactKey: Guid(9166f21398cf4490cb449795e8560118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AU_CharacterParts.png using Guid(9166f21398cf4490cb449795e8560118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '890ac240cd7185580e7240c8c6e8259c') in 0.006372 seconds
+  Import took 0.008945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.528219 seconds.
+  path: Assets/AU_CharacterParts.png
+  artifactKey: Guid(9166f21398cf4490cb449795e8560118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AU_CharacterParts.png using Guid(9166f21398cf4490cb449795e8560118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c8d9935a51ce10978e823b4877dbf9') in 0.025189 seconds
+  Import took 0.027618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022407 seconds.
+  path: Assets/AU_CharacterParts.png
+  artifactKey: Guid(9166f21398cf4490cb449795e8560118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AU_CharacterParts.png using Guid(9166f21398cf4490cb449795e8560118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c8d9935a51ce10978e823b4877dbf9') in 0.034485 seconds
+  Import took 0.037227 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
